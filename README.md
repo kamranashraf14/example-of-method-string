@@ -5,6 +5,7 @@ same result but different procces
 method 1
 public class Main {
     public static void main(String[] args) {
+    // line 8 baad me likha gya hai Ac to method name 
      String greet = msg();
      
      System.out.println(greet);
